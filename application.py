@@ -5,7 +5,8 @@ import pickle
 import pandas as pd
 import numpy as np
 
-app = Flask(__name__)
+application = Flask(__name__)
+app = application
 model = pickle.load(open(r'flight.pkl', "rb"))
 
 print(model)
