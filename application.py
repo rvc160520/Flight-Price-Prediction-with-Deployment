@@ -198,7 +198,7 @@ def predict():
             source_Kolkata = 0
             source_Mumbai = 1
             source_Chennai = 0
-            ource_Banglore=0
+            source_Banglore=0
             source_Ahmedabad=0
 
         elif (Source == 'Chennai'):
