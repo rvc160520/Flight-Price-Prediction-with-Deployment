@@ -1,0 +1,14 @@
+catboost
+Flask
+Flask-Cors
+numpy
+matplotlib
+matplotlib-inline
+pandas
+gunicorn
+plotly
+scikit-learn
+scikit-optimize
+scipy
+seaborn
+xgboost
